@@ -1,2 +1,2 @@
-The following V++ code is a realisation of associative map based on rank-balanced trees (http://www.cs.princeton.edu/~sssix/papers/rb-trees.pdf).
+The following C++ code is a realisation of associative map based on rank-balanced trees (http://www.cs.princeton.edu/~sssix/papers/rb-trees.pdf).
 Here it is compared to std::map from C++ STL. If you wish to compare heights of the trees, you need to create std::map-like class able to compute its own height.
